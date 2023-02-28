@@ -1,0 +1,7 @@
+{
+  "name": "novaaula",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
